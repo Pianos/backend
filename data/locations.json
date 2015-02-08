@@ -1,0 +1,44 @@
+{
+	"starkPiano": {
+		"lon":-122.654898,
+		"lat":45.519877,
+		"title":  "Stark Piano",
+		"image": "piano2.jpg",
+		"bio":""
+	},
+	"salmonPiano": {
+		"lon":-122.673618,
+		"lat":45.515329,
+		"title":  "Salmon Springs Piano",
+		"image": "piano3.jpg",
+		"bio":""
+	},
+	"montPiano": {
+		"lon":-122.681496,
+		"lat":45.511464,
+		"title":  "SW 5th Piano",
+		"image": "piano4.jpg",
+		"bio":""
+	},
+	"artPiano": {
+		"lon":-122.682932,
+		"lat":45.516420,
+		"title":  "SW Madison Piano",
+		"image": "piano5.jpg",
+		"bio":""
+	},
+	"pioneerPiano": {
+		"lon":-122.679611,
+		"lat":45.519362,
+		"title":  "Pioneer Square Piano",
+		"image": "piano6.jpg",
+		"bio":""
+	},
+	"burnsidePiano": {
+		"lon":-122.684079,
+		"lat":45.522925,
+		"title":  "Burnside Piano",
+		"image": "piano7.jpg",
+		"bio":""
+	}
+}
