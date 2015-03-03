@@ -11,6 +11,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "author": "James Steihl, Al Zimmerman",
   "license": "ISC"
 }
