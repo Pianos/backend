@@ -5,7 +5,7 @@
 		"title":  "ADX Piano",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
 		"bio":"The first piano to find a home! Not really a public piano, but you can play it when you are at the wonderful ADX facility. 417 SE 11th Ave. Go on in and give it a try! Open during ADX hours.",
-		"url":"http://www.pianopushplay.com/pianos/adxPiano"
+		"url":"http://www.pianopushplay.com/pianos/adxpiano"
 	},
 	"waterfrontPiano": {
 		"lon":-122.673618,
@@ -13,7 +13,7 @@
 		"title":  "Waterfront Piano",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/waterfront_detail.jpg",
 		"bio":"Come beat the Summer heat at the Rose Festival Foundation Patio, right by the Salmon Street Springs fountain on Naito Parkway.",
-		"url":"http://www.pianopushplay.com/pianos/waterfrontPiano"
+		"url":"http://www.pianopushplay.com/pianos/waterfrontpiano"
 	},
 	"museumPiano": {
 		"lon":-122.682932,
@@ -21,7 +21,7 @@
 		"title":  "Portland Art Museum Piano",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/museum_details.jpg",
 		"bio":"We are always proud to place our first public piano with our good friends at the Portland Art Museum. They are available for public players every day during museum hours.",
-		"url":"http://www.pianopushplay.com/pianos/museumPiano"
+		"url":"http://www.pianopushplay.com/pianos/museumpiano"
 	},
 	"pioneerPiano": {
 		"lon":-122.679611,
@@ -29,7 +29,7 @@
 		"title":  "Pioneer Square Piano",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/pioneer_courthouse_detail.jpg",
 		"bio":"Nestled in the little open theater below Starbucks, this location has excellent acoustics and always has a steady stream of visitors, chess players, and musicians. SW Broadway & Morrison. Open Monday - Sunday during daylight hours. (Closed when there are other events going on - check it out to make sure.)",
-		"url":"http://www.pianopushplay.com/pianos/pioneerPiano"
+		"url":"http://www.pianopushplay.com/pianos/pioneerpiano"
 	},
 	"burnsidePiano": {
 		"lon":-122.684079,
@@ -37,6 +37,6 @@
 		"title":  "Burnside Piano",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/burnside_detail.jpg",
 		"bio":"Yep, this is the piano in our OPB video. Come play a historical monument! (Just kidding). This is our favorite location, across from Ringler's Annex, just near the bike statue.  Open all hours.",
-		"url":"http://www.pianopushplay.com/pianos/burnsidePiano"
+		"url":"http://www.pianopushplay.com/pianos/burnsidepiano"
 	}
 }
