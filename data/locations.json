@@ -39,12 +39,20 @@
 		"bio":"Yep, this is the piano in our OPB video. Come play a historical monument! (Just kidding). This is our favorite location, across from Ringler's Annex, just near the bike statue.  Open all hours.",
 		"url":"http://www.pianopushplay.com/pianos/burnsidepiano"
 	},
-	"Debussy": {
+	"debussy": {
 		"lon":-122.597609,
 		"lat":45.511544,
 		"title":  "Mount Tabor",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mount_tabor_temp.jpg",
 		"bio":"The hills are alive with the sound of music! Come visit Mount Tabor and enjoy some tunes while there. Open during park hours.",
 		"url":"http://www.pianopushplay.com/pianos/debussy"
+	},
+	"chopin": {
+		"lon":-122.762077,
+		"lat":45.587048,
+		"title":  "Cathedral Park",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cathedral_park_temp.jpg",
+		"bio":"Live in a van down by the river! Open during park hours.",
+		"url":"http://www.pianopushplay.com/pianos/chopin"
 	}
 }
