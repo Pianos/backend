@@ -44,7 +44,7 @@
 		"lat":45.511544,
 		"title":  "Mount Tabor",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mount_tabor_temp.jpg",
-		"bio":"The hills are alive with the sound of music! Come visit Mount Tabor and enjoy some tunes while there. Open during park hours.",
+		"bio":"This is the temp page for the Debussy piano. The hills are alive with the sound of music! Come visit Mount Tabor and enjoy some tunes while there. Open during park hours.",
 		"url":"http://www.pianopushplay.com/pianos/debussy"
 	},
 	"chopin": {
@@ -52,7 +52,15 @@
 		"lat":45.587048,
 		"title":  "Cathedral Park",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cathedral_park_temp.jpg",
-		"bio":"Live in a van down by the river! Open during park hours.",
+		"bio":"This is the temp page for the Chopin piano. Live in a van down by the river! Open during park hours.",
 		"url":"http://www.pianopushplay.com/pianos/chopin"
+	},
+	"beethoven ": {
+		"lon":-122.656828,
+		"lat":45.522924,
+		"title":  "Beethoven: Doug Fir Lounge",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cathedral_park_temp.jpg",
+		"bio":"So Portland! The creative folks at Doug Fir Lounge have put the maps on this piano as we put the piano on the map!  Check it out at the Lounge all summer long.",
+		"url":"http://www.pianopushplay.com/pianos/beethoven"
 	}
 }
