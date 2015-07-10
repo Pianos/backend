@@ -1,66 +1,90 @@
 {
-	"adxPiano": {
-		"lon":-122.6548975,
-		"lat":45.519877,
-		"title":  "ADX Piano",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
-		"bio":"The first piano to find a home! Not really a public piano, but you can play it when you are at the wonderful ADX facility. 417 SE 11th Ave. Go on in and give it a try! Open during ADX hours.",
-		"url":"http://www.pianopushplay.com/pianos/adxpiano"
+	"bach ": {
+		"lon":-122.678558,
+		"lat":45.51481,
+		"title":  "Bach @ 13th & Burnside",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/bach.jpg",
+		"bio":"This was our first location, and still our favorite. Come join all our friends and play a historical landmark. (Just kdding!) Decorated by Ryan Bubnis and sponsored by the Portland Piano Company.",
+		"url":"http://www.pianopushplay.com/pianos/bach"
 	},
-	"waterfrontPiano": {
-		"lon":-122.673618,
-		"lat":45.515329,
-		"title":  "Waterfront Piano",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/waterfront_detail.jpg",
-		"bio":"Come beat the Summer heat at the Rose Festival Foundation Patio, right by the Salmon Street Springs fountain on Naito Parkway.",
-		"url":"http://www.pianopushplay.com/pianos/waterfrontpiano"
-	},
-	"museumPiano": {
-		"lon":-122.682932,
-		"lat":45.516420,
-		"title":  "Portland Art Museum Piano",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/museum_details.jpg",
-		"bio":"We are always proud to place our first public piano with our good friends at the Portland Art Museum. They are available for public players every day during museum hours.",
-		"url":"http://www.pianopushplay.com/pianos/museumpiano"
-	},
-	"pioneerPiano": {
-		"lon":-122.679611,
-		"lat":45.519362,
-		"title":  "Pioneer Square Piano",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/pioneer_courthouse_detail.jpg",
-		"bio":"Nestled in the little open theater below Starbucks, this location has excellent acoustics and always has a steady stream of visitors, chess players, and musicians. SW Broadway & Morrison. Open Monday - Sunday during daylight hours. (Closed when there are other events going on - check it out to make sure.)",
-		"url":"http://www.pianopushplay.com/pianos/pioneerpiano"
-	},
-	"burnsidePiano": {
-		"lon":-122.684079,
-		"lat":45.522925,
-		"title":  "Burnside Piano",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/burnside_detail.jpg",
-		"bio":"Yep, this is the piano in our OPB video. Come play a historical monument! (Just kidding). This is our favorite location, across from Ringler's Annex, just near the bike statue.  Open all hours.",
-		"url":"http://www.pianopushplay.com/pianos/burnsidepiano"
-	},
-	"debussy": {
-		"lon":-122.597609,
-		"lat":45.511544,
-		"title":  "Mount Tabor",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mount_tabor_temp.jpg",
-		"bio":"This is the temp page for the Debussy piano. The hills are alive with the sound of music! Come visit Mount Tabor and enjoy some tunes while there. Open during park hours.",
-		"url":"http://www.pianopushplay.com/pianos/debussy"
-	},
-	"chopin": {
-		"lon":-122.762077,
-		"lat":45.587048,
-		"title":  "Cathedral Park",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cathedral_park_temp.jpg",
-		"bio":"This is the temp page for the Chopin piano. Live in a van down by the river! Open during park hours.",
-		"url":"http://www.pianopushplay.com/pianos/chopin"
+	"bartok ": {
+		"lon":-122.653777,
+		"lat":45.530627,
+		"title":  "Bartok @ Holladay Park",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/bartok.jpg",
+		"bio":"This little red monster may have 50% more eyes than our average piano, but it sounds as sweet as can be. Decorated by Struck Agency and sponsored by Harold Goldstein.",
+		"url":"http://www.pianopushplay.com/pianos/bach"
 	},
 	"beethoven ": {
 		"lon":-122.656828,
 		"lat":45.522924,
-		"title":  "Beethoven: Doug Fir Lounge",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cathedral_park_temp.jpg",
-		"bio":"So Portland! The creative folks at Doug Fir Lounge have put the maps on this piano as we put the piano on the map!  Check it out at the Lounge all summer long.",
+		"title":  "Beethoven @ Doug Fir Lounge",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/beethoven.jpg",
+		"bio":"So Portland! The creative folks at Doug Fir Lounge put the maps on this piano as we put the piano on the map!  Check it out at the Lounge all summer long.",
 		"url":"http://www.pianopushplay.com/pianos/beethoven"
+	},
+	"brahms": {
+		"lon":-122.6548975,
+		"lat":45.519877,
+		"title":  "Brahms @ ADX",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/brahms.jpg",
+		"bio":"It's a whole band in one piano! Not really a public piano, but you can play it when you are at the wonderful ADX facility. Go on in and give it a try! Open during ADX hours.",
+		"url":"http://www.pianopushplay.com/pianos/adxpiano"
+	},
+	"chopin": {
+		"lon":-122.673802,
+		"lat":45.567523,
+		"title":  "Chopin @ Peninsula Park",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/chopin.jpg",
+		"bio":"This little piano is both played and playful!  Open during park hours. Decorated by Roundhouse Agency and sponsored by Gimbal.",
+		"url":"http://www.pianopushplay.com/pianos/chopin"
+	},
+	"clementi": {
+		"lon":-122.6681924,
+		"lat":45.511544,
+		"title": "Clementi @ Eastbank Esplanade",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/clementi.jpg",
+		"bio":"Currently at the Vera Katz Statue on the Eastbank Esplanade. Go serenade her. Now. Sponsored and decorated by the inventive artists at Awesome Portland.",
+		"url":"http://www.pianopushplay.com/pianos/clementi"
+	},
+	"debussy": {
+		"lon":-122.597609,
+		"lat":45.511544,
+		"title":  "Debussy @ Salmon St. Springs Fountain",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/debussy.jpg",
+		"bio":"Come beat the summer heat down on the waterfront at the Salmon Street Springs fountain on Naito Parkway. Decorated by Lucid Design and sponsored by the Portland Art Museum.",
+		"url":"http://www.pianopushplay.com/pianos/debussy"
+	},
+	"haydn": {
+		"lon":-122.597609,
+		"lat":45.511544,
+		"title":  "Haydn @ Mount Tabor",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/haydn.jpg",
+		"bio":"The hills are alive with the sound of pianos! Come visit Mount Tabor and enjoy some tunes as you gaze down upon beautiful Portland. Open during park hours. Decorated by Splash Worldwide and sponsored by Portland Code School.",
+		"url":"http://www.pianopushplay.com/pianos/haydn"
+	},
+	"liszt": {
+		"lon":-122.678558,
+		"lat":45.51481,
+		"title":  "Liszt @ City Hall",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/liszt.jpg",
+		"bio":"There is music in the halls of government! This piano is uniquely Portland and a must-see work of art. Open during office hours. Decorated by North and sponsored by  Becker Capital Management, Inc.",
+		"url":"http://www.pianopushplay.com/pianos/liszt"
+	},
+	"mozart": {
+		"lon":-122.682932,
+		"lat":45.516420,
+		"title":  "Mozart @ Portland Art Museum",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mozart.jpg",
+		"bio":"We are always proud to place our first public piano with our good friends at the Portland Art Museum. Open during museum hours. Decorated by Jennifer Mark and Juliet Moran of Open Eye Art and sponsored by Umpqua Bank.",
+		"url":"http://www.pianopushplay.com/pianos/mozart"
+	},
+	"scarlatti": {
+		"lon":-122.762077,
+		"lat":45.587048,
+		"title":  "Scarlatti @ Cathedral Park",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/scarlatti.jpg",
+		"bio":"A wonderfully elegant piano in an elegant setting. Open during park hours. Decorated by Bureau of Betterment and sponsored by Hilton Portland & Executive Tower.",
+		"url":"http://www.pianopushplay.com/pianos/scarlatti"
 	}
 }
