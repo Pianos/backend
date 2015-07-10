@@ -1,16 +1,16 @@
 {
 	"bach ": {
-		"lon":-122.678558,
-		"lat":45.51481,
+		"lon":-122.684021,
+		"lat":45.522927,
 		"title":  "Bach @ 13th & Burnside",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/bach.jpg",
 		"bio":"This was our first location, and still our favorite. Come join all our friends and play a historical landmark. (Just kdding!) Decorated by Ryan Bubnis and sponsored by the Portland Piano Company.",
 		"url":"http://www.pianopushplay.com/pianos/bach"
 	},
 	"bartok ": {
-		"lon":-122.653777,
-		"lat":45.530627,
-		"title":  "Bartok @ Holladay Park",
+		"lon":-122.6773143,
+		"lat":45.5160589,
+		"title":  "Bartok @ Lownsdale Square",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/bartok.jpg",
 		"bio":"This little red monster may have 50% more eyes than our average piano, but it sounds as sweet as can be. Decorated by Struck Agency and sponsored by Harold Goldstein.",
 		"url":"http://www.pianopushplay.com/pianos/bartok"
