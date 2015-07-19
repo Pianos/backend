@@ -8,16 +8,16 @@
 		"url":"http://www.pianopushplay.com/pianos/bach"
 	},
 	"bartok ": {
-		"lon":-122.652551,
-		"lat":45.519347,
+		"lon":-122.652723,
+		"lat":45.518979 ,
 		"title":  "Bartok @ Washington High School",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/bartok.jpg",
 		"bio":"This little red monster may have 50% more eyes than our average piano, but it sounds as sweet as can be. Decorated by Struck Agency and sponsored by Harold Goldstein.",
 		"url":"http://www.pianopushplay.com/pianos/bartok"
 	},
 	"beethoven ": {
-		"lon":-122.577937,
-		"lat":45.528002,
+		"lon":-122.577449,
+		"lat":45.52667,
 		"title":  "Beethoven @ Monte Villa Park",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/beethoven.jpg",
 		"bio":"So Portland! The creative folks at Doug Fir Lounge put the maps on this piano as we put the piano on the map!",
@@ -40,8 +40,8 @@
 		"url":"http://www.pianopushplay.com/pianos/clementi"
 	},
 	"liszt": {
-		"lon":-122.712753,
-		"lat":45.579745,
+		"lon":-122.711495,
+		"lat":45.578119,
 		"title":  "Liszt @ Columbia Park",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/liszt.jpg",
 		"bio":"This piano is uniquely Portland and a must-see work of art.  Decorated by North and sponsored by  Becker Capital Management, Inc.",
