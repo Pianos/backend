@@ -6,21 +6,5 @@
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
 		"bio":"One of our originals! Not really a public piano, but you can play it when you are at the wonderful ADX facility. Go on in and give it a try! Open during ADX hours.",
 		"url":"http://www.pianopushplay.com/pianos/joplin"
-	},
-	"debussy": {
-		"lon":-122.679175,
-		"lat":45.519248,
-		"title": "Debussy @ Pioneer Courthouse Square",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/debussy.jpg",
-		"bio":"Currently in Portland's Living Room: Pioneer Courthouse Square. Go see it. Go hear it! Go play it! Decorated by Lucid and sponsored by the Portland Art Museum.",
-		"url":"http://www.pianopushplay.com/pianos/debussy"
-	},
-	"mozart": {
-		"lon":-122.682932,
-		"lat":45.516420,
-		"title":  "Mozart @ Portland Art Museum",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mozart.jpg",
-		"bio":"We are always proud to place our first public piano with our good friends at the Portland Art Museum. Open during museum hours. Decorated by Jennifer Mark and Juliet Moran of Open Eye Art and sponsored by Umpqua Bank.",
-		"url":"http://www.pianopushplay.com/pianos/mozart"
 	}
 }
