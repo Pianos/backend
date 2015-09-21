@@ -1,4 +1,20 @@
 {
+	"ellington": {
+		"lon":-122.6828428,
+		"lat":45.5113209,
+		"title":  "Ellington @ PSU Bike Hub",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ellington.jpg",
+		"bio":"Decorated in homage to the iconic PDX airport carpet, this piano has a smooth, quiet sound.",
+		"url":"http://www.pianopushplay.com/"
+	},
+	"hancock": {
+		"lon":-122.6779718,
+		"lat":45.5189244,
+		"title":  "Hancock @ Macy's",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
+		"bio":"Designed and painted by Jody Katopothis and a whole crew of helpers and supporters.",
+		"url":"http://www.pianopushplay.com/"
+	},
 	"joplin": {
 		"lon":-122.6548975,
 		"lat":45.519877,
@@ -8,11 +24,35 @@
 		"url":"http://www.pianopushplay.com/pianos/joplin"
 	},
 	"liszt": {
-	  "lon":-122.7182285,
-	  "lat":45.5106949,
-	  "title":  "Liszt @ World Forestry Center",
+	  "lon":-122.6787515,
+	  "lat":45.5164932,
+	  "title":  "Liszt @ Congress Plaza",
 	  "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/liszt.jpg",
-	  "bio":"This piano is uniquely Portland and a must-see work of art. Open during Center hours. Decorated by North and sponsored by Becker Capital Management, Inc.",
+	  "bio":"This piano is uniquely Portland and a must-see work of art. Decorated by North and sponsored by Becker Capital Management, Inc.",
 	  "url":"http://www.pianopushplay.com/pianos/liszt"
+	},
+	"mozart": {
+		"lon":-122.680935,
+		"lat":45.5148196,
+		"title":  "Mozart @ Portland Art Museum",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mozart.jpg",
+		"bio":"On the move again! Decorated by Jennifer Mark and Juliet Moran of Open Eye Art and sponsored by Umpqua Bank.",
+		"url":"http://www.pianopushplay.com/pianos/mozart"
+	},
+	"rathersevere": {
+		"lon":-122.6813221,
+		"lat":45.509728,
+		"title":  "Rather Severe @ PSU",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/rathersevere.jpg",
+		"bio":"The result of a collaboration with Rather Severe: Design Duo",
+		"url":"http://www.pianopushplay.com"
+	},
+	"seeingsound": {
+		"lon":-122.680935,
+		"lat":45.5148196,
+		"title":  "#SeeingSound @ OMSI",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/seeingsound.jpg",
+		"bio":"The result of a collaboration with CymaSpace, & Lucid Design, this vintage piano includes sound-reactive visualization electronics that respond to sounds and tones, music becoming light, color and movement. ",
+		"url":"http://www.pianopushplay.com/cover"
 	}
 }
