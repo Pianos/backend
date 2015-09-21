@@ -11,7 +11,7 @@
 		"lon":-122.6779718,
 		"lat":45.5189244,
 		"title":  "Hancock @ Macy's",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/hancock.jpg",
 		"bio":"Designed and painted by Jody Katopothis and a whole crew of helpers and supporters.",
 		"url":"http://www.pianopushplay.com/"
 	},
@@ -34,7 +34,7 @@
 	"mozart": {
 		"lon":-122.680935,
 		"lat":45.5148196,
-		"title":  "Mozart @ Portland Art Museum",
+		"title":  "Mozart @ Unitas Plaza",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mozart.jpg",
 		"bio":"On the move again! Decorated by Jennifer Mark and Juliet Moran of Open Eye Art and sponsored by Umpqua Bank.",
 		"url":"http://www.pianopushplay.com/pianos/mozart"
