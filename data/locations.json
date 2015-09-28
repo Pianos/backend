@@ -1,18 +1,10 @@
 {
 	"ellington": {
-		"lon":-122.6828428,
-		"lat":45.5113209,
-		"title":  "Ellington @ PSU Bike Hub",
+		"lon":-122.652723,
+		"lat":45.518979,
+		"title":  "Ellington @ Martha's",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ellington.jpg",
 		"bio":"Decorated in homage to the iconic PDX airport carpet, this piano has a smooth, quiet sound.",
-		"url":"http://www.pianopushplay.com/"
-	},
-	"hancock": {
-		"lon":-122.6779718,
-		"lat":45.5189244,
-		"title":  "Hancock @ Macy's",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/hancock.jpg",
-		"bio":"Designed and painted by Jody Katopothis and a whole crew of helpers and supporters.",
 		"url":"http://www.pianopushplay.com/"
 	},
 	"joplin": {
@@ -22,30 +14,6 @@
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
 		"bio":"One of our originals! Not really a public piano, but you can play it when you are at the wonderful ADX facility. Go on in and give it a try! Open during ADX hours.",
 		"url":"http://www.pianopushplay.com/pianos/joplin"
-	},
-	"liszt": {
-	  "lon":-122.6787515,
-	  "lat":45.5164932,
-	  "title":  "Liszt @ Congress Plaza",
-	  "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/liszt.jpg",
-	  "bio":"This piano is uniquely Portland and a must-see work of art. Decorated by North and sponsored by Becker Capital Management, Inc.",
-	  "url":"http://www.pianopushplay.com/pianos/liszt"
-	},
-	"mozart": {
-		"lon":-122.680935,
-		"lat":45.5148196,
-		"title":  "Mozart @ Unitas Plaza",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mozart.jpg",
-		"bio":"On the move again! Decorated by Jennifer Mark and Juliet Moran of Open Eye Art and sponsored by Umpqua Bank.",
-		"url":"http://www.pianopushplay.com/pianos/mozart"
-	},
-	"rmcartney": {
-		"lon":-122.679415,
-		"lat":45.519311,
-		"title":  "McCartney @ Pioneer Courthouse Square",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/rathersevere.jpg",
-		"bio":"The result of a collaboration with Rather Severe: Design Duo",
-		"url":"http://www.pianopushplay.com"
 	},
 	"seeingsound": {
 		"lon":-122.6658949,
