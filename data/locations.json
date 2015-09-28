@@ -1,4 +1,12 @@
 {
+	"chopin": {
+		"lon":-122.652723,
+		"lat":45.529118,
+		"title":  "Chopin @ The Yards",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/chopin.jpg",
+		"bio":"It's been through a lot this summer, but now it's reincarnated in fabulous form inside the Yards.",
+		"url":"http://www.pianopushplay.com/pianos/chopin"
+	},
 	"ellington": {
 		"lon":-122.652723,
 		"lat":45.518979,
@@ -12,7 +20,7 @@
 		"lat":45.519877,
 		"title":  "Joplin @ ADX",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
-		"bio":"One of our originals! Not really a public piano, but you can play it when you are at the wonderful ADX facility. Go on in and give it a try! Open during ADX hours.",
+		"bio":"Our first public piano from our first year with our first partner! You can play it when you are at the wonderful ADX facility. Go on in and give it a try! Open during ADX hours.",
 		"url":"http://www.pianopushplay.com/pianos/joplin"
 	},
 	"seeingsound": {
