@@ -24,11 +24,11 @@
 		"url":"http://www.pianopushplay.com/pianos/joplin"
 	},
 	"seeingsound": {
-		"lon":-122.6658949,
-		"lat":45.508478,
-		"title":  "#SeeingSound @ OMSI",
+		"lon":-122.6622367,
+		"lat":45.516033,
+		"title":  "#SeeingSound @ CymaSpace",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/seeingsound.jpg",
 		"bio":"The result of a collaboration with CymaSpace, & Lucid Design, this vintage piano includes sound-reactive visualization electronics that respond to sounds and tones, music becoming light, color and movement. ",
-		"url":"http://www.pianopushplay.com/cover"
+		"url":"pianos/seeingsound"
 	}
 }
