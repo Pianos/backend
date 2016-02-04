@@ -13,7 +13,7 @@
 		"title":  "Ellington @ Martha's",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ellington.jpg",
 		"bio":"Decorated in homage to the iconic PDX airport carpet, this piano has a smooth, quiet sound.",
-		"url":"http://www.pianopushplay.com/"
+		"url":"http://www.pianopushplay.com/pianos/ellington"
 	},
 	"joplin": {
 		"lon":-122.6548975,
@@ -29,6 +29,6 @@
 		"title":  "#SeeingSound @ CymaSpace",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/seeingsound.jpg",
 		"bio":"The result of a collaboration with CymaSpace, & Lucid Design, this vintage piano includes sound-reactive visualization electronics that respond to sounds and tones, music becoming light, color and movement. ",
-		"url":"pianos/seeingsound"
+		"url":"http://www.pianopushplay.com/pianos/seeingsound"
 	}
 }
