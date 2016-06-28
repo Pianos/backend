@@ -1,34 +1,186 @@
 {
-	"chopin": {
-		"lon":-122.6750363,
-		"lat":45.529118,
-		"title":  "Chopin @ The Yards",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/chopin.jpg",
-		"bio":"It's been through a lot this summer, but now it's reincarnated in fabulous form inside the Yards.",
-		"url":"http://www.pianopushplay.com/pianos/chopin"
-	},
-	"ellington": {
+  "alice": {
+    "title": "Alice @ LaurelHurst Park",
+    "lon": -122.6249635,
+    "lat": 45.5213906,
+    "bio": "By Ivan Salcedo and named for musician Alice Coltrane, this beauty combines shapes, shades and shadows to suggest space, movement, and possibly narratives. Be sure to view all sides of the piece.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/alice.jpg",
+    "url": "http://www.pianopushplay.com/pianos/alice"
+  },
+  "amy ": {
+    "title": "Amy @ Historical Society",
+    "lon": -122.6846207,
+    "lat": 45.515911,
+    "bio": "By Katy Towell and named for composer Amy Beach, this petite antique-styled wonder is at the Oregon Historical Society.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/amy.jpg",
+    "url": "http://www.pianopushplay.com/pianos/amy"
+  },
+  "anna ": {
+    "title": "Anna @ Holladay Park",
+    "lon": 122.6535559,
+    "lat": 45.53073355,
+    "bio": "Designer Maureen Long invites you to play detective and find all the Northwest musicians depicted on this piano, named for piano prodigy Anna Fedorova",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/anna.jpg",
+    "url": "http://www.pianopushplay.com/pianos/anna"
+  },
+  "aretha":{
+    "title": "Aretha @ Guero",
+    "lon": -122.6398308,
+    "lat": 45.5218208,
+    "bio": "Designer Alison Pond combines abstract shapes and Portland iconography in this delightful little nugget named for Aretha Franklin.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/aretha.jpg",
+    "url": "http://www.pianopushplay.com/pianos/aretha"
+  },
+  "cat": {
+    "title": "Cat @ Cathedral Park",
+    "lon": -122.762077,
+    "lat": 45.587048,
+    "bio": "This colorful upright, named for musician and composer Cat Power, embodies the shape of sound. Designed by Blaine Fontana.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cat.jpg",
+    "url": "http://www.pianopushplay.com/pianos/cat"
+  },
+  "clara":{
+    "title": "Clara @ Mississippi Marketplace",
+    "lon": -122.6755956,
+    "lat": 45.55457812,
+    "bio": "Designer Zach Yarrington wants everybody to PLAY this luminous beauty, named for pianist and composer Clara Schumann.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/clara.jpg",
+    "url": "http://www.pianopushplay.com/pianos/clara"
+  },
+  "diana ": {
+    "title": "Diana @ City Hall",
+    "lon": -122.678558,
+    "lat": 45.51481,
+    "bio": "Designer Cassandra Frances Swan combines contemporary illustration and cubist principles, inviting you to participate and play. Named for jazz pianist Diana Krall.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/diana.jpg",
+    "url": "http://www.pianopushplay.com/pianos/diana"
+  },
+  "dorothea ":{
+    "title": "Dorothea @ North Park Blocks",
+    "lon": -122.6788169,
+    "lat": 45.5239238,
+    "bio": "Named for pioneering composer Dorthea Austine, this design by Charlie White uses classic trompe l'oeil technique. Be sure to look from all angles!",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/dorothea.jpg",
+    "url": "http://www.pianopushplay.com/pianos/dorothea"
+  },
+  "ella ":{
+    "title": "Ella  @ 13th & Burnside",
+    "lon": -122.684021,
+    "lat": 45.522927,
+    "bio": "Whether daytime or evening, this piano shines when you play it. Designed by IDL and named for Ela Fitzgerald.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ella .jpg",
+    "url": "http://www.pianopushplay.com/pianos/ella"
+  },
+  "fanny ":{
+    "title": "Fanny  @ Washington High School",
+    "lon": -122.6527655,
+    "lat": 45.5190013,
+    "bio": "This delightful upright is transparently bold and colorful. Designed by Brian Nally of Nemo and named for Fanny Mendelssohn.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/fanny .jpg",
+    "url": "http://www.pianopushplay.com/pianos/fanny"
+  },
+  "fiona ":{
+    "title": "Fiona @ 8th and East Burnside",
+    "lon": -122.656828,
+    "lat": 45.522924,
+    "bio": "This piano is a tribute to Prince and David Bowie by Doug Fir Lounge.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/fiona.jpg",
+    "url": "http://www.pianopushplay.com/pianos/fiona"
+  },
+  "hildegard":{
+    "title": "Hildegard @ O'Bryant Square",
+    "lon": -122.6820847,
+    "lat": 45.5213389,
+    "bio": "Designer Melody Owen used collage technique to create 'a kind of surreal cityscape or dreamscape' on this piano named for Hildegard von Bingen, an 11th century polymath.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/hildegard.jpg",
+    "url": "http://www.pianopushplay.com/pianos/hildegard"
+  },
+  "laurie":{
+    "title": "Laurie @ Peninsula Park",
+    "lon": -122.673802,
+    "lat": 45.567523,
+    "bio": "Designers Chris Bigalke and Julia Skerry combined esoteric elements with art nouveau on this delightful baby grand named for Laurie Anderson.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/laurie.jpg",
+    "url": "http://www.pianopushplay.com/pianos/laurie"
+  },
+  "lili":{
+    "title": "Lili @ Columbia Park",
+    "lon": -122.712753,
+    "lat": 45.579745,
+    "bio": "Take a moment to admire the detailed woodwork on this upright designed by Amy Ruppel. A delight for the eye and ear!",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/lili.jpg",
+    "url": "http://www.pianopushplay.com/pianos/lili"
+  },
+  "marian":{
+    "title": "Marian @ Kelly Point Park",
+    "lon": -122.7618527,
+    "lat": 45.64652333,
+    "bio": "The detailed surface treatment of this piano by designer Michael Erspamer deserves to be touched. Named for famed pianist Marian McPartland.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/marian.jpg",
+    "url": "http://www.pianopushplay.com/pianos/marian"
+  },
+  "marylou": {
+    "title": "Mary Lou @ Portland Art Museum",
+    "lon": -122.682932,
+    "lat": 45.51642,
+    "bio": "Be sure to read the legend of 'Fur Elise' on the piano. This amazing design by ZGF is incredibly detailed and entirely whimsical.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/marylou.jpg",
+    "url": "http://www.pianopushplay.com/pianos/marylu"
+  },
+  "mitsuko": {
+    "title": "Mitsuko @ Eastbank Esplanade",
+    "lon": -122.668274,
+    "lat": 45.514394,
+    "bio": "The koi on designer Susannah Kelly's piano swim around the keyboard inviting the player to join them. Named for pianist Mitsuko Uchida.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mitsuko.jpg",
+    "url": "http://www.pianopushplay.com/pianos/mitsuko"
+  },
+  "nadia": {
+    "title": "Nadia @ Council Crest Park",
+    "lon": -122.7081657,
+    "lat": 45.49875211,
+    "bio": "The designers at Big Giant have merged the abstract and the concrete in a design that should be experienced up close.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/nadia.jpg",
+    "url": "http://www.pianopushplay.com/pianos/nadia"
+  },
+  "nina":{
+    "title": "Nina @ Tidbits",
+    "lon": -122.6363254,
+    "lat": 45.50467764,
+    "bio": "Designer Julianna Bright's sense of flow and energy move through this piano named for artist Nina Simone.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/nina.jpg",
+    "url": "http://www.pianopushplay.com/pianos/nina"
+  },
+  "rachel":{
+    "title": "Rachel @ The Q Center",
+    "lon": -122.6756439,
+    "lat": 45.55342679,
+    "bio": "The designers at Lucid Design used mirrors to open this piece up to become larger than itself, incorporating its surroundings. It has to be seen to be believed. Named in honor of film composer Rachel Portman.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/rachel.jpg",
+    "url": "http://www.pianopushplay.com/pianos/rachel"
+  },
+  "joplin": {
+    "lon":-122.6548975,
+    "lat":45.519877,
+    "title":  "Joplin @ ADX",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
+    "bio":"Our first public piano from our first year with our first partner! You can play it when you are at the wonderful ADX facility. Go on in and give it a try! Open during ADX hours.",
+    "url":"http://www.pianopushplay.com/pianos/joplin"
+  },
+  "ellington": {
 		"lon":-122.652723,
 		"lat":45.518979,
 		"title":  "Ellington @ Martha's",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ellington.jpg",
-		"bio":"Decorated in homage to the iconic PDX airport carpet, this piano has a smooth, quiet sound.",
+		"bio":"From 2015 and decorated in homage to the iconic PDX airport carpet, this piano has a smooth, quiet sound.",
 		"url":"http://www.pianopushplay.com/pianos/ellington"
-	},
-	"joplin": {
-		"lon":-122.6548975,
-		"lat":45.519877,
-		"title":  "Joplin @ ADX",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
-		"bio":"Our first public piano from our first year with our first partner! You can play it when you are at the wonderful ADX facility. Go on in and give it a try! Open during ADX hours.",
-		"url":"http://www.pianopushplay.com/pianos/joplin"
-	},
-	"seeingsound": {
+  },
+  "seeingsound": {
 		"lon":-122.6622367,
 		"lat":45.516033,
 		"title":  "#SeeingSound @ CymaSpace",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/seeingsound.jpg",
-		"bio":"The result of a collaboration with CymaSpace, & Lucid Design, this vintage piano includes sound-reactive visualization electronics that respond to sounds and tones, music becoming light, color and movement. ",
+		"bio":"From 2015: The result of a collaboration with CymaSpace, & Lucid Design, this vintage piano includes sound-reactive visualization electronics that respond to sounds and tones, music becoming light, color and movement. ",
 		"url":"http://www.pianopushplay.com/pianos/seeingsound"
-	}
+  }
 }
