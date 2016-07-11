@@ -71,14 +71,6 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ella.jpg",
     "url": "http://www.pianopushplay.com/pianos/ella"
   },
-  "fanny ":{
-    "title": "Fanny  @ Washington High School",
-    "lon": -122.6527655,
-    "lat": 45.5190013,
-    "bio": "This delightful upright is transparently bold and colorful. Designed by Brian Nally of Nemo and named for Fanny Mendelssohn.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/fanny.jpg",
-    "url": "http://www.pianopushplay.com/pianos/fanny"
-  },
   "fiona ":{
     "title": "Fiona @ 8th and East Burnside",
     "lon": -122.656828,
@@ -126,14 +118,6 @@
     "bio": "Be sure to read the legend of 'Fur Elise' on the piano. This amazing design by ZGF is incredibly detailed and entirely whimsical.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/marylou.jpg",
     "url": "http://www.pianopushplay.com/pianos/marylu"
-  },
-  "mitsuko": {
-    "title": "Mitsuko @ Eastbank Esplanade",
-    "lon": -122.668274,
-    "lat": 45.514394,
-    "bio": "The koi on designer Susannah Kelly's piano swim around the keyboard inviting the player to join them. Named for pianist Mitsuko Uchida.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mitsuko.jpg",
-    "url": "http://www.pianopushplay.com/pianos/mitsuko"
   },
   "nadia": {
     "title": "Nadia @ Council Crest Park",
