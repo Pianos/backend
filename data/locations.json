@@ -119,6 +119,14 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/marylou.jpg",
     "url": "http://www.pianopushplay.com/pianos/marylu"
   },
+  "mitsuko": {
+    "title": "Mitsuko @ Eastbank Esplanade",
+    "lon": -122.668274,
+    "lat": 45.514394,
+    "bio": "The koi on designer Susannah Kelly's piano swim around the keyboard inviting the player to join them. Named for pianist Mitsuko Uchida.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mitsuko.jpg",
+    "url": "http://www.pianopushplay.com/pianos/mitsuko"
+  },
   "nadia": {
     "title": "Nadia @ Council Crest Park",
     "lon": -122.7081657,
@@ -166,5 +174,13 @@
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/seeingsound.jpg",
 		"bio":"From 2015: The result of a collaboration with CymaSpace, & Lucid Design, this vintage piano includes sound-reactive visualization electronics that respond to sounds and tones, music becoming light, color and movement. ",
 		"url":"http://www.pianopushplay.com/pianos/seeingsound"
+  },
+  "liszt": {
+    "lon":-122.72045770,
+    "lat":45.51082600,
+    "title":  "Liszt @ World Forestry Center",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/liszt.jpg",
+    "bio":"This piano is uniquely Portland and a must-see work of art.  Decorated by North and in its forever home at the World Forestry Center. Visit and play!",
+    "url":"http://www.pianopushplay.com/pianos/liszt"
   }
 }
