@@ -1,12 +1,4 @@
 {
-  "alice": {
-    "title": "Alice @ LaurelHurst Park",
-    "lon": -122.6249635,
-    "lat": 45.5213906,
-    "bio": "By Ivan Salcedo and named for musician Alice Coltrane, this beauty combines shapes, shades and shadows to suggest space, movement, and possibly narratives. Be sure to view all sides of the piece.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/alice.jpg",
-    "url": "http://www.pianopushplay.com/pianos/alice"
-  },
   "amy ": {
     "title": "Amy @ Historical Society",
     "lon": -122.6846207,
@@ -79,14 +71,6 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/fiona.jpg",
     "url": "http://www.pianopushplay.com/pianos/fiona"
   },
-  "hildegard":{
-    "title": "Hildegard @ O'Bryant Square",
-    "lon": -122.6820847,
-    "lat": 45.5213389,
-    "bio": "Designer Melody Owen used collage technique to create 'a kind of surreal cityscape or dreamscape' on this piano named for Hildegard von Bingen, an 11th century polymath.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/hildegard.jpg",
-    "url": "http://www.pianopushplay.com/pianos/hildegard"
-  },
   "laurie":{
     "title": "Laurie @ Peninsula Park",
     "lon": -122.673802,
@@ -118,14 +102,6 @@
     "bio": "Be sure to read the legend of 'Fur Elise' on the piano. This amazing design by ZGF is incredibly detailed and entirely whimsical.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/marylou.jpg",
     "url": "http://www.pianopushplay.com/pianos/marylu"
-  },
-  "mitsuko": {
-    "title": "Mitsuko @ Eastbank Esplanade",
-    "lon": -122.668274,
-    "lat": 45.514394,
-    "bio": "The koi on designer Susannah Kelly's piano swim around the keyboard inviting the player to join them. Named for pianist Mitsuko Uchida.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/mitsuko.jpg",
-    "url": "http://www.pianopushplay.com/pianos/mitsuko"
   },
   "nadia": {
     "title": "Nadia @ Council Crest Park",
