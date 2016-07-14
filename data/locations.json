@@ -23,14 +23,6 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/aretha.jpg",
     "url": "http://www.pianopushplay.com/pianos/aretha"
   },
-  "cat": {
-    "title": "Cat @ Cathedral Park",
-    "lon": -122.762077,
-    "lat": 45.587048,
-    "bio": "This colorful upright, named for musician and composer Cat Power, embodies the shape of sound. Designed by Blaine Fontana.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cat.jpg",
-    "url": "http://www.pianopushplay.com/pianos/cat"
-  },
   "clara":{
     "title": "Clara @ Mississippi Marketplace",
     "lon": -122.6755956,
