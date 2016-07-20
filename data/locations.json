@@ -1,13 +1,13 @@
 {
-  "amy ": {
-    "title": "Amy @ Historical Society",
-    "lon": -122.6846207,
-    "lat": 45.515911,
+  "amy": {
+    "title": "Amy @ Powell Butte",
+    "lon": -122.49744058,
+    "lat": 45.49048314,
     "bio": "By Katy Towell and named for composer Amy Beach, this petite antique-styled wonder is at the Oregon Historical Society.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/amy.jpg",
     "url": "http://www.pianopushplay.com/pianos/amy"
   },
-  "anna ": {
+  "anna": {
     "title": "Anna @ Holladay Park",
     "lon": -122.6535559,
     "lat": 45.53073355,
@@ -23,6 +23,14 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/aretha.jpg",
     "url": "http://www.pianopushplay.com/pianos/aretha"
   },
+  "cat": {
+    "title": "Cat @ Patton Square Park",
+    "lon": -122.68135000,
+    "lat": 45.56145000,
+    "bio": "This colorful upright, named for musician and composer Cat Power, embodies the shape of sound. Designed by Blaine Fontana.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cat.jpg",
+    "url": "http://www.pianopushplay.com/pianos/cat"
+  },
   "clara":{
     "title": "Clara @ Mississippi Marketplace",
     "lon": -122.6755956,
@@ -32,9 +40,9 @@
     "url": "http://www.pianopushplay.com/pianos/clara"
   },
   "diana ": {
-    "title": "Diana @ Pioneer Place Apple Store",
-    "lon": -122.677115,
-    "lat": 45.517803,
+    "title": "Diana @ Society Hotel Rooftop",
+    "lon": -122.6736,
+    "lat": 45.5246465,
     "bio": "Designer Cassandra Frances Swan combines contemporary illustration and cubist principles, inviting you to participate and play. Named for jazz pianist Diana Krall.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/diana.jpg",
     "url": "http://www.pianopushplay.com/pianos/diana"
@@ -72,20 +80,12 @@
     "url": "http://www.pianopushplay.com/pianos/laurie"
   },
   "lili":{
-    "title": "Lili @ Columbia Park",
-    "lon": -122.712753,
-    "lat": 45.579745,
+    "title": "Lili @ Tanner Springs Park",
+    "lon": -122.68191218,
+    "lat": 45.53118450,
     "bio": "Take a moment to admire the detailed woodwork on this upright designed by Amy Ruppel. A delight for the eye and ear!",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/lili.jpg",
     "url": "http://www.pianopushplay.com/pianos/lili"
-  },
-  "marian":{
-    "title": "Marian @ Kelly Point Park",
-    "lon": -122.7618527,
-    "lat": 45.64652333,
-    "bio": "The detailed surface treatment of this piano by designer Michael Erspamer deserves to be touched. Named for famed pianist Marian McPartland.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/marian.jpg",
-    "url": "http://www.pianopushplay.com/pianos/marian"
   },
   "marylou": {
     "title": "Mary Lou @ Portland Art Museum",
@@ -112,9 +112,9 @@
     "url": "http://www.pianopushplay.com/pianos/nina"
   },
   "rachel":{
-    "title": "Rachel @ The Q Center",
-    "lon": -122.6756439,
-    "lat": 45.55342679,
+    "title": "Rachel @ Salmon Street Springs",
+    "lon": -122.67299600,
+    "lat": 45.51529300,
     "bio": "The designers at Lucid Design used mirrors to open this piece up to become larger than itself, incorporating its surroundings. It has to be seen to be believed. Named in honor of film composer Rachel Portman.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/rachel.jpg",
     "url": "http://www.pianopushplay.com/pianos/rachel"
