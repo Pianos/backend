@@ -55,14 +55,6 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/dorothea.jpg",
     "url": "http://www.pianopushplay.com/pianos/dorothea"
   },
-  "ella ":{
-    "title": "Ella  @ 13th & Burnside",
-    "lon": -122.684021,
-    "lat": 45.522927,
-    "bio": "Whether daytime or evening, this piano shines when you play it. Designed by IDL and named for Ela Fitzgerald.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ella.jpg",
-    "url": "http://www.pianopushplay.com/pianos/ella"
-  },
   "fiona ":{
     "title": "Fiona @ 8th and East Burnside",
     "lon": -122.656828,
@@ -80,9 +72,9 @@
     "url": "http://www.pianopushplay.com/pianos/laurie"
   },
   "lili":{
-    "title": "Lili @ Tanner Springs Park",
-    "lon": -122.68191218,
-    "lat": 45.53118450,
+    "title": "Lili @ Mt. Scott Park",
+    "lon": -122.587983,
+    "lat": 45.481519,
     "bio": "Take a moment to admire the detailed woodwork on this upright designed by Amy Ruppel. A delight for the eye and ear!",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/lili.jpg",
     "url": "http://www.pianopushplay.com/pianos/lili"
