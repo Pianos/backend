@@ -7,14 +7,6 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/amy.jpg",
     "url": "http://www.pianopushplay.com/pianos/amy"
   },
-  "anna": {
-    "title": "Anna @ Holladay Park",
-    "lon": -122.6535559,
-    "lat": 45.53073355,
-    "bio": "Designer Maureen Long invites you to play detective and find all the Northwest musicians depicted on this piano, named for piano prodigy Anna Fedorova",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/anna.jpg",
-    "url": "http://www.pianopushplay.com/pianos/anna"
-  },
   "aretha":{
     "title": "Aretha @ Guero",
     "lon": -122.6398308,
@@ -32,9 +24,9 @@
     "url": "http://www.pianopushplay.com/pianos/cat"
   },
   "clara":{
-    "title": "Clara @ Mississippi Marketplace",
-    "lon": -122.6755956,
-    "lat": 45.55457812,
+    "title": "Clara @ Cartlandia",
+    "lon": -122.5796132,
+    "lat": 45.4635325,
     "bio": "Designer Zach Yarrington wants everybody to PLAY this luminous beauty, named for pianist and composer Clara Schumann.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/clara.jpg",
     "url": "http://www.pianopushplay.com/pianos/clara"
@@ -47,14 +39,6 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/diana.jpg",
     "url": "http://www.pianopushplay.com/pianos/diana"
   },
-  "dorothea ":{
-    "title": "Dorothea @ Lownsdale Square",
-    "lon": -122.67731430,
-    "lat": 45.51605890,
-    "bio": "Named for pioneering composer Dorothea Austine, this design by Charlie White uses classic trompe l'oeil technique. Be sure to look from all angles!",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/dorothea.jpg",
-    "url": "http://www.pianopushplay.com/pianos/dorothea"
-  },
   "fiona ":{
     "title": "Fiona @ 8th and East Burnside",
     "lon": -122.656828,
@@ -62,14 +46,6 @@
     "bio": "This piano is a tribute to Prince and David Bowie by Doug Fir Lounge.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/fiona.jpg",
     "url": "http://www.pianopushplay.com/pianos/fiona"
-  },
-  "laurie":{
-    "title": "Laurie @ Peninsula Park",
-    "lon": -122.673802,
-    "lat": 45.567523,
-    "bio": "Designers Chris Bigalke and Julia Skerry combined esoteric elements with art nouveau on this delightful baby grand named for Laurie Anderson.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/laurie.jpg",
-    "url": "http://www.pianopushplay.com/pianos/laurie"
   },
   "lili":{
     "title": "Lili @ Mt. Scott Park",
@@ -88,10 +64,10 @@
     "url": "http://www.pianopushplay.com/pianos/marylu"
   },
   "nadia": {
-    "title": "Nadia @ Mt Tabor",
-    "lon": -122.593124,
-    "lat": 45.513123,
-    "bio": "The designers at Big Giant have merged the abstract and the concrete in a design that should be experienced up close.",
+    "title": "Nadia @ Youth Music Project",
+    "lon": -122.652988,
+    "lat": 45.345756,
+    "bio": "The designers at Big Giant have merged the abstract and the concrete in a design that should be experienced up close. Call the YMP for office hours and availability",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/nadia.jpg",
     "url": "http://www.pianopushplay.com/pianos/nadia"
   },
@@ -102,14 +78,6 @@
     "bio": "Designer Julianna Bright's sense of flow and energy move through this piano named for artist Nina Simone.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/nina.jpg",
     "url": "http://www.pianopushplay.com/pianos/nina"
-  },
-  "rachel":{
-    "title": "Rachel @ Salmon Street Springs",
-    "lon": -122.67299600,
-    "lat": 45.51529300,
-    "bio": "The designers at Lucid Design used mirrors to open this piece up to become larger than itself, incorporating its surroundings. It has to be seen to be believed. Named in honor of film composer Rachel Portman.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/rachel.jpg",
-    "url": "http://www.pianopushplay.com/pianos/rachel"
   },
   "joplin": {
     "lon":-122.6548975,
@@ -128,8 +96,8 @@
 		"url":"http://www.pianopushplay.com/pianos/ellington"
   },
   "seeingsound": {
-		"lon":-122.6622367,
-		"lat":45.516033,
+		"lon":-122.659702,
+		"lat":45.5160913,
 		"title":  "#SeeingSound @ CymaSpace",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/seeingsound.jpg",
 		"bio":"From 2015: The result of a collaboration with CymaSpace, & Lucid Design, this vintage piano includes sound-reactive visualization electronics that respond to sounds and tones, music becoming light, color and movement. ",
