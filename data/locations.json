@@ -1,20 +1,4 @@
 {
-  "amy": {
-    "title": "Amy @ Powell Butte",
-    "lon": -122.49744058,
-    "lat": 45.49048314,
-    "bio": "By Katy Towell and named for composer Amy Beach, this petite antique-styled wonder is at the Oregon Historical Society.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/amy.jpg",
-    "url": "http://www.pianopushplay.com/pianos/amy"
-  },
-  "aretha":{
-    "title": "Aretha @ Guero",
-    "lon": -122.6398308,
-    "lat": 45.5218208,
-    "bio": "Designer Alison Pond combines abstract shapes and Portland iconography in this delightful little nugget named for Aretha Franklin.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/aretha.jpg",
-    "url": "http://www.pianopushplay.com/pianos/aretha"
-  },
   "cat": {
     "title": "Cat @ Patton Square Park",
     "lon": -122.68135000,
@@ -30,30 +14,6 @@
     "bio": "Designer Zach Yarrington wants everybody to PLAY this luminous beauty, named for pianist and composer Clara Schumann.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/clara.jpg",
     "url": "http://www.pianopushplay.com/pianos/clara"
-  },
-  "diana ": {
-    "title": "Diana @ Pioneer Place Apple Store",
-    "lon": -122.67711500,
-    "lat": 45.51780300,
-    "bio": "Designer Cassandra Frances Swan combines contemporary illustration and cubist principles, inviting you to participate and play. Named for jazz pianist Diana Krall.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/diana.jpg",
-    "url": "http://www.pianopushplay.com/pianos/diana"
-  },
-  "fiona ":{
-    "title": "Fiona @ 8th and East Burnside",
-    "lon": -122.656828,
-    "lat": 45.522924,
-    "bio": "This piano is a tribute to Prince and David Bowie by Doug Fir Lounge.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/fiona.jpg",
-    "url": "http://www.pianopushplay.com/pianos/fiona"
-  },
-  "lili":{
-    "title": "Lili @ Mt. Scott Park",
-    "lon": -122.587983,
-    "lat": 45.481519,
-    "bio": "Take a moment to admire the detailed woodwork on this upright designed by Amy Ruppel. A delight for the eye and ear!",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/lili.jpg",
-    "url": "http://www.pianopushplay.com/pianos/lili"
   },
   "marylou": {
     "title": "Mary Lou @ Portland Art Museum",
@@ -88,12 +48,12 @@
     "url":"http://www.pianopushplay.com/pianos/joplin"
   },
   "ellington": {
-		"lon":-122.652723,
-		"lat":45.518979,
-		"title":  "Ellington @ Martha's",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ellington.jpg",
-		"bio":"From 2015 and decorated in homage to the iconic PDX airport carpet, this piano has a smooth, quiet sound.",
-		"url":"http://www.pianopushplay.com/pianos/ellington"
+    "lon":-122.652723,
+    "lat":45.518979,
+    "title":  "Ellington @ Martha's",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ellington.jpg",
+    "bio":"From 2015 and decorated in homage to the iconic PDX airport carpet, this piano has a smooth, quiet sound.",
+    "url":"http://www.pianopushplay.com/pianos/ellington"
   },
   "seeingsound": {
 		"lon":-122.659702,
