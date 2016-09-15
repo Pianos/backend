@@ -1,44 +1,4 @@
 {
-  "cat": {
-    "title": "Cat @ Patton Square Park",
-    "lon": -122.68135000,
-    "lat": 45.56145000,
-    "bio": "This colorful upright, named for musician and composer Cat Power, embodies the shape of sound. Designed by Blaine Fontana.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cat.jpg",
-    "url": "http://www.pianopushplay.com/pianos/cat"
-  },
-  "clara":{
-    "title": "Clara @ Cartlandia",
-    "lon": -122.5796132,
-    "lat": 45.4635325,
-    "bio": "Designer Zach Yarrington wants everybody to PLAY this luminous beauty, named for pianist and composer Clara Schumann.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/clara.jpg",
-    "url": "http://www.pianopushplay.com/pianos/clara"
-  },
-  "marylou": {
-    "title": "Mary Lou @ Portland Art Museum",
-    "lon": -122.682932,
-    "lat": 45.51642,
-    "bio": "Be sure to read the legend of 'Fur Elise' on the piano. This amazing design by ZGF is incredibly detailed and entirely whimsical.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/marylou.jpg",
-    "url": "http://www.pianopushplay.com/pianos/marylu"
-  },
-  "nadia": {
-    "title": "Nadia @ Youth Music Project",
-    "lon": -122.652988,
-    "lat": 45.345756,
-    "bio": "The designers at Big Giant have merged the abstract and the concrete in a design that should be experienced up close. Call the YMP for office hours and availability",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/nadia.jpg",
-    "url": "http://www.pianopushplay.com/pianos/nadia"
-  },
-  "nina":{
-    "title": "Nina @ Tidbits",
-    "lon": -122.6363254,
-    "lat": 45.50467764,
-    "bio": "Designer Julianna Bright's sense of flow and energy move through this piano named for artist Nina Simone.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/nina.jpg",
-    "url": "http://www.pianopushplay.com/pianos/nina"
-  },
   "joplin": {
     "lon":-122.6548975,
     "lat":45.519877,
