@@ -30,5 +30,13 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/liszt.jpg",
     "bio":"This piano is uniquely Portland and a must-see work of art.  Decorated by North and in its forever home at the World Forestry Center. Visit and play!",
     "url":"http://www.pianopushplay.com/pianos/liszt"
-  }
+  },
+  "tori ":{
+    "title": "Tori  @ 13th & Burnside",
+    "lon": -122.684021,
+    "lat": 45.522927,
+    "bio": "Designed by Megan McGeorge with Tattly tattoos and named for Tori Amos.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/tori-ios.jpg",
+    "url": "http://www.pianopushplay.com/pianos/tori"
+  },
 }
