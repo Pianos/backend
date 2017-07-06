@@ -62,5 +62,13 @@
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/vivian-ios.jpg",
 		"bio":"This piano is a whole band! Come out to the Children's Museum to play and bring your friends.",
 		"url":"http://www.pianopushplay.com/pianos/vivian"
+  },
+  "geri ":{
+    "title": "Geri @ 8th and East Burnside",
+    "lon": -122.656828,
+    "lat": 45.522924,
+    "bio": "One of our most popular locations. Honoring the late Geri Allen and decorated by Doug Fir Lounge.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/geri-ios.jpg",
+    "url": "http://www.pianopushplay.com/pianos/geri"
   }
 }
