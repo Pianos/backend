@@ -94,5 +94,13 @@
     "bio": "The surface textures on this lovely little gem, designed by Portland Gear, deserve a close-up look and a touch (or two!). McCoy Park is a new location for us this year. Check it out!",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/elisabeth-ios.jpg",
     "url": "http://www.pianopushplay.com/pianos/elisabeth"
+  },
+  "carole": {
+    "title": "Carole @ Portland Art Museum",
+    "lon": -122.682932,
+    "lat": 45.51642,
+    "bio": "While our pianos are beautiful any time of the day, this masterpeice by Sera Architects reveals a unique talent near the end of the day as the evening comes on. Go play it!",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/carole-ios.jpg",
+    "url": "http://www.pianopushplay.com/pianos/carole"
   }
 }
