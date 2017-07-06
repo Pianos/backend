@@ -70,5 +70,13 @@
     "bio": "One of our most popular locations. Honoring the late Geri Allen and decorated by Doug Fir Lounge.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/geri-ios.jpg",
     "url": "http://www.pianopushplay.com/pianos/geri"
+  },
+  "teresa": {
+    "title": "Teresa @ Council Crest Park",
+    "lon": -122.7081657,
+    "lat": 45.49875211,
+    "bio": "You really need to see this beauty close up. Designed in detail by Heidi Marble.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/teresa-ios.jpg",
+    "url": "http://www.pianopushplay.com/pianos/teresa"
   }
 }
