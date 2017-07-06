@@ -38,5 +38,13 @@
     "bio": "Designed by Megan McGeorge with Tattly tattoos and named for Tori Amos.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/tori-ios.jpg",
     "url": "http://www.pianopushplay.com/pianos/tori"
+  },
+  "darcelle":{
+    "title": "Darcelle @ The Q Center",
+    "lon": -122.6756439,
+    "lat": 45.55342679,
+    "bio": "Talented artists from the Sign Of The Beast Burlesque created this beauty in honor of Portland legendary entertainer Darcelle.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/darcelle-ios.jpg",
+    "url": "http://www.pianopushplay.com/pianos/darcelle"
   }
 }
