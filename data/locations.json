@@ -31,28 +31,20 @@
     "bio":"This piano is uniquely Portland and a must-see work of art.  Decorated by North and in its forever home at the World Forestry Center. Visit and play!",
     "url":"http://www.pianopushplay.com/pianos/liszt"
   },
-  "tori ":{
-    "title": "Tori  @ 13th & Burnside",
-    "lon": -122.684021,
-    "lat": 45.522927,
+"tori ":{
+    "title": "Tori  @ Pioneer Place Apple Store",
+    "lon": -122.67711500,
+    "lat": 45.51780300,
     "bio": "Designed by Megan McGeorge with Tattly tattoos and named for Tori Amos.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/tori-ios.jpg",
     "url": "http://www.pianopushplay.com/pianos/tori"
   },
-  "darcelle":{
-    "title": "Darcelle @ The Q Center",
-    "lon": -122.6756439,
-    "lat": 45.55342679,
-    "bio": "Talented artists from the Sign Of The Beast Burlesque created this beauty in honor of Portland legendary entertainer Darcelle.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/darcelle-ios.jpg",
-    "url": "http://www.pianopushplay.com/pianos/darcelle"
-  },
   "wendy": {
-		"lon":-122.49744058,
-		"lat":45.49048314,
-		"title":  "Wendy @ Powell Butte",
+		"lon":-122.76207700,
+		"lat":45.58704800,
+		"title":  "Wendy @ Cathedral Park",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/wendy-ios.jpg",
-		"bio":"This little racoon is out playing on Powell Butte. Designed by delightful artists at Open Eye Art.",
+		"bio":"This little racoon is out playing under the bridge in beautiful Cathedral Park. Designed by delightful artists at Open Eye Art.",
 		"url":"http://www.pianopushplay.com/pianos/wendy"
   },
   "vivian": {
@@ -71,29 +63,13 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/geri-ios.jpg",
     "url": "http://www.pianopushplay.com/pianos/geri"
   },
-  "teresa": {
-    "title": "Teresa @ Council Crest Park",
-    "lon": -122.7081657,
-    "lat": 45.49875211,
-    "bio": "You really need to see this beauty close up. Designed in detail by Heidi Marble.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/teresa-ios.jpg",
-    "url": "http://www.pianopushplay.com/pianos/teresa"
-  },
   "norah ": {
-    "title": "Norah @ Pioneer Place Apple Store",
-    "lon": -122.67711500,
-    "lat": 45.51780300,
+    "title": "Norah @ Mt. Tabor",
+    "lon": -122.59312400,
+    "lat": 45.51312300,
     "bio": "Designer Lettie Jane Rennekamp invites you to explore the jungle foliage and find what's hidden in this piano, named for Norah Jones.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/norah-ios.jpg",
     "url": "http://www.pianopushplay.com/pianos/norah"
-  },
-  "elisabeth": {
-    "title": "Elisabeth @ McCoy Park",
-    "lon": -122.71687050,
-    "lat": 45.58957610,
-    "bio": "The surface textures on this lovely little gem, designed by Portland Gear, deserve a close-up look and a touch (or two!). McCoy Park is a new location for us this year. Check it out!",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/elisabeth-ios.jpg",
-    "url": "http://www.pianopushplay.com/pianos/elisabeth"
   },
   "carole": {
     "title": "Carole @ Portland Art Museum",
