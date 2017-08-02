@@ -31,20 +31,12 @@
     "bio":"This piano is uniquely Portland and a must-see work of art.  Decorated by North and in its forever home at the World Forestry Center. Visit and play!",
     "url":"http://www.pianopushplay.com/pianos/liszt"
   },
-"tori ":{
-    "title": "Tori  @ Pioneer Place Apple Store",
-    "lon": -122.67711500,
-    "lat": 45.51780300,
-    "bio": "Designed by Megan McGeorge with Tattly tattoos and named for Tori Amos.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/tori-ios.jpg",
-    "url": "http://www.pianopushplay.com/pianos/tori"
-  },
   "wendy": {
-		"lon":-122.76207700,
-		"lat":45.58704800,
-		"title":  "Wendy @ Cathedral Park",
+    "lon": -122.682932,
+    "lat": 45.51642,
+		"title":  "Wendy @ Portland Art Museum",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/wendy-ios.jpg",
-		"bio":"This little racoon is out playing under the bridge in beautiful Cathedral Park. Designed by delightful artists at Open Eye Art.",
+		"bio":"This little racoon is back downtown at the Portland Art Museum. Designed by delightful artists at Open Eye Art.",
 		"url":"http://www.pianopushplay.com/pianos/wendy"
   },
   "vivian": {
@@ -55,26 +47,18 @@
 		"bio":"This piano is a whole band! Come out to the Children's Museum to play and bring your friends.",
 		"url":"http://www.pianopushplay.com/pianos/vivian"
   },
-  "geri ":{
-    "title": "Geri @ 8th and East Burnside",
-    "lon": -122.656828,
-    "lat": 45.522924,
-    "bio": "One of our most popular locations. Honoring the late Geri Allen and decorated by Doug Fir Lounge.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/geri-ios.jpg",
-    "url": "http://www.pianopushplay.com/pianos/geri"
-  },
   "norah ": {
-    "title": "Norah @ Mt. Tabor",
-    "lon": -122.59312400,
-    "lat": 45.51312300,
-    "bio": "Designer Lettie Jane Rennekamp invites you to explore the jungle foliage and find what's hidden in this piano, named for Norah Jones.",
+    "title": "Norah @ The Sentinal Hotel",
+    "lon": -122.68332050,
+    "lat": 45.52064800,
+    "bio": "Designer Lettie Jane Rennekamp's piano, named for Norah Jones, is in one of the classiest locations in Portland, the Sentinal Hotel.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/norah-ios.jpg",
     "url": "http://www.pianopushplay.com/pianos/norah"
   },
   "carole": {
-    "title": "Carole @ Portland Art Museum",
-    "lon": -122.682932,
-    "lat": 45.51642,
+    "title": "Carole @ Holladay Park",
+    "lon": -122.65355587,
+    "lat": 45.53073355,
     "bio": "While our pianos are beautiful any time of the day, this masterpeice by Sera Architects reveals a unique talent near the end of the day as the evening comes on. Go play it!",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/carol-ios.jpg",
     "url": "http://www.pianopushplay.com/pianos/carole"
