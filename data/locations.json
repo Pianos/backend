@@ -1,66 +1,75 @@
 {
-  "joplin": {
-    "lon":-122.6548975,
-    "lat":45.519877,
-    "title":  "Joplin @ ADX",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/adx_detail.jpg",
-    "bio":"Our first public piano from our first year with our first partner! You can play it when you are at the wonderful ADX facility. Go on in and give it a try! Open during ADX hours.",
-    "url":"http://www.pianopushplay.com/pianos/joplin"
+  "martha": {
+    "lon":-122.75193700,
+    "lat":45.39665330,
+    "title":  "Martha @ Bridgeport Village",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/martha.jpg",
+    "bio":"Martha is a delightful collaboration from returning Piano. Push. Play. artists Lettie Jane Rennekamp , Cassandra Swan, and Michael Buchino.  Open during business hours.",
+    "url":"http://www.pianopushplay.com/pianos/martha"
   },
-  "ellington": {
-    "lon":-122.652723,
-    "lat":45.518979,
-    "title":  "Ellington @ Martha's",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ellington.jpg",
-    "bio":"From 2015 and decorated in homage to the iconic PDX airport carpet, this piano has a smooth, quiet sound.",
-    "url":"http://www.pianopushplay.com/pianos/ellington"
+  "gaga": {
+    "lon":-122.67564386,
+    "lat":45.55342679,
+    "title":  "Gaga @ The Q Center",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/gaga.jpg",
+    "bio":"This rainbow-colored beauty springs forth from the wonderful Wokeface. Open during business hours.",
+    "url":"http://www.pianopushplay.com/pianos/gaga"
   },
-  "seeingsound": {
-		"lon":-122.659702,
-		"lat":45.5160913,
-		"title":  "#SeeingSound @ CymaSpace",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/seeingsound.jpg",
-		"bio":"From 2015: The result of a collaboration with CymaSpace, & Lucid Design, this vintage piano includes sound-reactive visualization electronics that respond to sounds and tones, music becoming light, color and movement. ",
-		"url":"http://www.pianopushplay.com/pianos/seeingsound"
-  },
-  "liszt": {
-    "lon":-122.71807400,
-    "lat":45.51060600,
-    "title":  "Liszt @ World Forestry Center",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/liszt.jpg",
-    "bio":"This piano is uniquely Portland and a must-see work of art.  Decorated by North and in its forever home at the World Forestry Center. Visit and play!",
-    "url":"http://www.pianopushplay.com/pianos/liszt"
-  },
-  "wendy": {
+  "idil": {
     "lon": -122.682932,
     "lat": 45.51642,
-		"title":  "Wendy @ Portland Art Museum",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/wendy-ios.jpg",
-		"bio":"This little racoon is back downtown at the Portland Art Museum. Designed by delightful artists at Open Eye Art.",
-		"url":"http://www.pianopushplay.com/pianos/wendy"
-  },
-  "vivian": {
+		"title":  "Idil @ The Portland Art Museum",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/idil.jpg",
+		"bio":"The always delightful Julz Nally created this piano, waiting for you at our premier location. Open during business hours.",
+		"url":"http://www.pianopushplay.com/pianos/idil"
+  },  
+  "cristine": {
 		"lon":-122.71989470,
 		"lat":45.50850570,
-		"title":  "Vivian @ The Children's Museum",
-		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/vivian-ios.jpg",
-		"bio":"This piano is a whole band! Come out to the Children's Museum to play and bring your friends.",
-		"url":"http://www.pianopushplay.com/pianos/vivian"
+		"title":  "Cristine @ The Children's Museum",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cristine.jpg",
+		"bio":"This piano is a delight! Come out to the Children's Museum to play and bring your friends. Open during business hours.",
+		"url":"http://www.pianopushplay.com/pianos/cristine"
   },
-  "norah ": {
-    "title": "Norah @ The Sentinal Hotel",
-    "lon": -122.68332050,
-    "lat": 45.52064800,
-    "bio": "Designer Lettie Jane Rennekamp's piano, named for Norah Jones, is in one of the classiest locations in Portland, the Sentinal Hotel.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/norah-ios.jpg",
-    "url": "http://www.pianopushplay.com/pianos/norah"
+  "stevie": {
+    "lat":45.52292400,
+    "lon":-122.65682800,
+    "title":  "Stevie @ Doug Fir Lounge",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/stevie.jpg",
+    "bio":"This piano, decorated by the team at Doug Fir, represents all the great bands that have played there. Open during business hours.",
+    "url":"http://www.pianopushplay.com/pianos/stevie"
   },
-  "carole": {
-    "title": "Carole @ Holladay Park",
-    "lon": -122.65355587,
-    "lat": 45.53073355,
-    "bio": "While our pianos are beautiful any time of the day, this masterpeice by Sera Architects reveals a unique talent near the end of the day as the evening comes on. Go play it!",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/carol-ios.jpg",
-    "url": "http://www.pianopushplay.com/pianos/carole"
+  "maria": {
+    "lat": 45.52464650,
+    "lon": -122.67360000,
+		"title":  "Maria @ Society Hotel Roof",
+		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/maria.jpg",
+		"bio":"Up on the roof, in the Summer air, find this wonderful piano with a timely message. Open during business hours.",
+		"url":"http://www.pianopushplay.com/pianos/maria"
+  },
+
+  "ray": {
+    "title": "Ray @ 13th & Burnside",
+    "lat": 45.52292700,
+    "lon": -122.68402100,
+    "bio": "Designer Vania Vananina's vibrant piano, named for Ray Charles, is out on the street at our original location.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ray.jpg",
+    "url": "http://www.pianopushplay.com/pianos/ray"
+  },
+  "annie": {
+    "title": "Annie @ Cartlandia",
+    "lat": 45.46358190,
+    "lon": -122.57979830,
+    "bio": "Designer Deadstock Coffee gives us this simple piano at Cartlandia. Go play it! Open during business hours.",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/annie.jpg",
+    "url": "http://www.pianopushplay.com/pianos/annie"
+  },
+  "cecile": {
+    "title": "Cécile @ Rose Festival Patio",
+    "lat": 45.51502550,
+    "lon": -122.67322870,
+    "bio": "The team at Sera Architects gives us this classy multi-layered number at a favorite location, on the riverside plaza just south of the Salmon Street Springs fountain. ",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cecile.jpg",
+    "url": "http://www.pianopushplay.com/pianos/cecile"
   }
 }
