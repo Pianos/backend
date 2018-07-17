@@ -81,8 +81,8 @@
     "url":"http://www.pianopushplay.com/pianos/liszt"
   },
   "nina": {
-    "lon":-122.71807400,
-    "lat":45.51060600,
+    "lon":-122.65578330,
+    "lat":45.49770790,
     "title":  "Nina @ Know Thy Food Coop",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/nina.jpg",
     "bio":"First seen in our 2015 season, this delightful piano by Julianna Bright is waiting for you among the food carts. Open during business hours. Visit and play!",
@@ -97,8 +97,8 @@
     "url":"http://www.pianopushplay.com/pianos/haydn"
   },
   "anna": {
-    "lon":-122.68383900,
-    "lat":45.52417770,
+    "lon":-122.68670800,
+    "lat":45.39322600,
     "title":  "Anna @ Luscher Farm",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/anna.jpg",
     "bio":"Maureen Long's colorful design is still available at Luscher Farms, waiting for you to visit. Open during business hours.",
