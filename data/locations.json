@@ -8,11 +8,11 @@
     "url":"http://www.pianopushplay.com/pianos/martha"
   },
   "gaga": {
-    "lon":-122.67564386,
-    "lat":45.55342679,
-    "title":  "Gaga @ The Q Center",
+    "lon":-122.67380200,
+    "lat":45.56752300,
+    "title":  "Gaga @ Peninsula Park",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/gaga.jpg",
-    "bio":"This rainbow-colored beauty springs forth from the wonderful Wokeface. Open during business hours.",
+    "bio":"This rainbow-colored beauty springs forth from the wonderful Wokeface.",
     "url":"http://www.pianopushplay.com/pianos/gaga"
   },
   "idil": {
@@ -24,11 +24,11 @@
 		"url":"http://www.pianopushplay.com/pianos/idil"
   },  
   "cristine": {
-		"lon":-122.71989470,
-		"lat":45.50850570,
-		"title":  "Cristine @ The Children's Museum",
+		"lon":-122.62496352,
+		"lat":45.52139060,
+		"title":  "Christine @ Laurelhurst Park",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cristine.jpg",
-		"bio":"This piano is a delight! Come out to the Children's Museum to play and bring your friends. Open during business hours.",
+		"bio":"This piano is a delight! Come out to one of Portland's most picturesque park to play. Bring your friends.",
 		"url":"http://www.pianopushplay.com/pianos/cristine"
   },
   "stevie": {
@@ -40,19 +40,19 @@
     "url":"http://www.pianopushplay.com/pianos/stevie"
   },
   "maria": {
-    "lat": 45.52464650,
-    "lon": -122.67360000,
-		"title":  "Maria @ Society Hotel Roof",
+    "lat": 45.51312300,
+    "lon": -122.59312400,
+		"title":  "Maria @ Mt Tabor",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/maria.jpg",
-		"bio":"Up on the roof, in the Summer air, find this wonderful piano with a timely message. Open during business hours.",
+		"bio":"Out on the hill overlooking Portland in the Summer air, find this wonderful piano with a timely message.",
 		"url":"http://www.pianopushplay.com/pianos/maria"
   },
 
   "ray": {
-    "title": "Ray @ 13th & Burnside",
-    "lat": 45.52292700,
-    "lon": -122.68402100,
-    "bio": "Designer Vania Vananina's vibrant piano, named for Ray Charles, is out on the street at our original location.",
+    "title": "Ray @ Cathedral Park",
+    "lat": 45.58704800,
+    "lon": -122.76207700,
+    "bio": "Designer Vania Vananina's vibrant piano, named for Ray Charles, is out under the St. Johns Bridge at one of our most popular locations.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ray.jpg",
     "url": "http://www.pianopushplay.com/pianos/ray"
   },
@@ -64,12 +64,44 @@
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/annie.jpg",
     "url": "http://www.pianopushplay.com/pianos/annie"
   },
-  "cecile": {
-    "title": "Cécile @ Rose Festival Patio",
-    "lat": 45.51502550,
-    "lon": -122.67322870,
-    "bio": "The team at Sera Architects gives us this classy multi-layered number at a favorite location, on the riverside plaza just south of the Salmon Street Springs fountain. ",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cecile.jpg",
-    "url": "http://www.pianopushplay.com/pianos/cecile"
+  "wendy": {
+    "title": "Wendy @ Council Crest",
+    "lat": 45.49875211,
+    "lon": -122.70816565,
+    "bio": "The team at Open Eye Art brings us this delightful racoon from our previous seasons. Now, it's back at a favorite location, up on the hill at Coucil Crest. ",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/wendy-ios.jpg",
+    "url": "http://www.pianopushplay.com/pianos/wendy"
+  },
+  "liszt": {
+    "lon":-122.71807400,
+    "lat":45.51060600,
+    "title":  "Liszt @ World Forestry Center",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/liszt.jpg",
+    "bio":"This piano is uniquely Portland and a must-see work of art.  Decorated by North and in its forever home at the World Forestry Center. Open during business hours. Visit and play!",
+    "url":"http://www.pianopushplay.com/pianos/liszt"
+  },
+  "nina": {
+    "lon":-122.71807400,
+    "lat":45.51060600,
+    "title":  "Nina @ Know Thy Food Coop",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/nina.jpg",
+    "bio":"First seen in our 2015 season, this delightful piano by Julianna Bright is waiting for you among the food carts. Open during business hours. Visit and play!",
+    "url":"http://www.pianopushplay.com/pianos/nina"
+  },
+  "haydn": {
+    "lon":-122.68383900,
+    "lat":45.52417770,
+    "title":  "Haydn @ Portland Center Stage",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/haydn.jpg",
+    "bio":"This quietly classic design from our 2015 season features a detailed map of Portland presented in gold. Open during business hours. Visit, play, and take in a show!",
+    "url":"http://www.pianopushplay.com/pianos/haydn"
+  },
+  "anna": {
+    "lon":-122.68383900,
+    "lat":45.52417770,
+    "title":  "Anna @ Luscher Farm",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/anna.jpg",
+    "bio":"Maureen Long's colorful design is still available at Luscher Farms, waiting for you to visit. Open during business hours.",
+    "url":"http://www.pianopushplay.com/pianos/anna"
   }
 }
