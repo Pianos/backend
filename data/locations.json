@@ -7,14 +7,6 @@
     "bio":"Martha is a delightful collaboration from returning Piano. Push. Play. artists Lettie Jane Rennekamp , Cassandra Swan, and Michael Buchino.  Open during business hours.",
     "url":"http://www.pianopushplay.com/pianos/martha"
   },
-  "gaga": {
-    "lon":-122.67380200,
-    "lat":45.56752300,
-    "title":  "Gaga @ Peninsula Park",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/gaga.jpg",
-    "bio":"This rainbow-colored beauty springs forth from the wonderful Wokeface.",
-    "url":"http://www.pianopushplay.com/pianos/gaga"
-  },
   "idil": {
     "lon": -122.682932,
     "lat": 45.51642,
@@ -23,13 +15,13 @@
 		"bio":"The always delightful Julz Nally created this piano, waiting for you at our premier location. Open during business hours.",
 		"url":"http://www.pianopushplay.com/pianos/idil"
   },  
-  "cristine": {
+  "christine": {
 		"lon":-122.62496352,
 		"lat":45.52139060,
 		"title":  "Christine @ Laurelhurst Park",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cristine.jpg",
 		"bio":"This piano is a delight! Come out to one of Portland's most picturesque park to play. Bring your friends.",
-		"url":"http://www.pianopushplay.com/pianos/cristine"
+		"url":"http://www.pianopushplay.com/pianos/christine"
   },
   "stevie": {
     "lat":45.52292400,
@@ -46,15 +38,6 @@
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/maria.jpg",
 		"bio":"Out on the hill overlooking Portland in the Summer air, find this wonderful piano with a timely message.",
 		"url":"http://www.pianopushplay.com/pianos/maria"
-  },
-
-  "ray": {
-    "title": "Ray @ Cathedral Park",
-    "lat": 45.58704800,
-    "lon": -122.76207700,
-    "bio": "Designer Vania Vananina's vibrant piano, named for Ray Charles, is out under the St. Johns Bridge at one of our most popular locations.",
-    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/ray.jpg",
-    "url": "http://www.pianopushplay.com/pianos/ray"
   },
   "annie": {
     "title": "Annie @ Cartlandia",
