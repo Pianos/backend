@@ -1,4 +1,12 @@
 {
+  "alicia": {
+    "lat":45.53313340,
+    "lon":-122.55438670,
+    "title":  "Alicia @ Gateway Discovery Park",
+    "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/alicia.jpg",
+    "bio":"Alicia is a multi-media creation of Nicky Kriara. It's at Portland's newest public space, Gateway Discovery Park. ",
+    "url":"http://www.pianopushplay.com/pianos/alicia"
+  },
   "martha": {
     "lon":-122.75193700,
     "lat":45.39665330,
@@ -8,19 +16,19 @@
     "url":"http://www.pianopushplay.com/pianos/martha"
   },
   "idil": {
-    "lon": -122.682932,
-    "lat": 45.51642,
-		"title":  "Idil @ The Portland Art Museum",
+    "lon": -122.71989470,
+    "lat": 45.50850570,
+		"title":  "Idil @ The Portland Children's Museum",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/idil.jpg",
-		"bio":"The always delightful Julz Nally created this piano, waiting for you at our premier location. Open during business hours.",
+		"bio":"The always delightful Julz Nally created this piano, waiting for you at our most fun location. Open during business hours.",
 		"url":"http://www.pianopushplay.com/pianos/idil"
   },  
   "christine": {
-		"lon":-122.62496352,
-		"lat":45.52139060,
-		"title":  "Christine @ Laurelhurst Park",
+		"lon":-122.65494500,
+		"lat":45.52043550,
+		"title":  "Christine @ ADX",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/cristine.jpg",
-		"bio":"This piano is a delight! Come out to one of Portland's most picturesque park to play. Bring your friends.",
+		"bio":"This piano is a delight! It's inside ADX, our long-time partners. Call to see if they're open and go play!",
 		"url":"http://www.pianopushplay.com/pianos/christine"
   },
   "stevie": {
@@ -32,26 +40,26 @@
     "url":"http://www.pianopushplay.com/pianos/stevie"
   },
   "maria": {
-    "lat": 45.51312300,
-    "lon": -122.59312400,
-		"title":  "Maria @ Mt Tabor",
+    "lat": 45.52464650,
+    "lon": -122.67360000,
+		"title":  "Maria @ Society Hotel Rooftop",
 		"image": "https://s3-us-west-2.amazonaws.com/ppp-pics/maria.jpg",
-		"bio":"Out on the hill overlooking Portland in the Summer air, find this wonderful piano with a timely message.",
+		"bio":"Up on the roof overlooking Portland in the Summer air, find this wonderful piano with a timely message.  Open during business hours.",
 		"url":"http://www.pianopushplay.com/pianos/maria"
   },
   "annie": {
-    "title": "Annie @ Cartlandia",
-    "lat": 45.46358190,
-    "lon": -122.57979830,
-    "bio": "Designer Deadstock Coffee gives us this simple piano at Cartlandia. Go play it! Open during business hours.",
+    "title": "Annie @ Portland Art Museum",
+    "lat": 45.51642000,
+    "lon": -122.68293200,
+    "bio": "Designer Deadstock Coffee gives us this simple piano at our flagship location. Go play it! Open during business hours.",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/annie.jpg",
     "url": "http://www.pianopushplay.com/pianos/annie"
   },
   "wendy": {
-    "title": "Wendy @ Council Crest",
-    "lat": 45.49875211,
-    "lon": -122.70816565,
-    "bio": "The team at Open Eye Art brings us this delightful racoon from our previous seasons. Now, it's back at a favorite location, up on the hill at Coucil Crest. ",
+    "title": "Wendy @ OHSU tram",
+    "lat": 45.49913820,
+    "lon": -122.67073090,
+    "bio": "The team at Open Eye Art brings us this delightful racoon from our previous seasons. Now, it's at a new location, at OHSU at the tram on the South Waterfront. ",
     "image": "https://s3-us-west-2.amazonaws.com/ppp-pics/wendy-ios.jpg",
     "url": "http://www.pianopushplay.com/pianos/wendy"
   },
